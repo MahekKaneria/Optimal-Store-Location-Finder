@@ -12,7 +12,7 @@ Files:
 3. data_analysis.ipynb: Jupyter Notebook file that demonstrates the data analysis process to determine the next best store location.
 
 Dependencies:
-- Python 3.x
+- Python 3.1
 - Jupyter Notebook
 - Pandas
 - NumPy
